@@ -1,7 +1,8 @@
 # SAW-SR
 ## Description
 <p>
-A full network protocol stack implementing the Stop-And-Wait and Selective Repeat Protocols to make File Transfer over UDP Reliable. The protocol stack is written in java and works in the application layer. 
+A full network protocol stack implementing the Stop-And-Wait and Selective Repeat Protocols to make File Transfer over UDP Reliable. The protocol stack is written in java and works in the application layer. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;The Project was implemented as part of our Computer Networks Course CS602.
 </p>
 
 ## Instructions
@@ -14,3 +15,6 @@ A full network protocol stack implementing the Stop-And-Wait and Selective Repea
 
 ##License
 <a href = "https://github.com/NilanjanDaw/SAW-SR/blob/master/LICENSE">MIT</a>
+
+##TO-DO
+Implementation of Go-Back-N protocol
